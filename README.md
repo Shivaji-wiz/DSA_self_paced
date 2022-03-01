@@ -5,3 +5,5 @@ started Linked List.
 Simple Linked List in C++
 
 Traversing a Simple Linked in C++
+
+Recurisve Traversal of Singly Linked List
