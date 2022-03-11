@@ -27,3 +27,7 @@ Doubly Linked List in C++
 Singly Vs Doubly Linked List
 
 Insertion at the begin of Doubly Linked List
+
+Insertion at the end of Doubly Linked List
+
+Reverse a Doubly Linked List
