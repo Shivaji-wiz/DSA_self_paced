@@ -31,3 +31,7 @@ Insertion at the begin of Doubly Linked List
 Insertion at the end of Doubly Linked List
 
 Reverse a Doubly Linked List
+
+delete first Node of Doubly Linked List
+
+delete last Node of Doubly Linked List
