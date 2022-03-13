@@ -43,3 +43,5 @@ bit at kth position
 count bits (Naive method and Brian kernningan's algorithm)
 
 count bits (lookup table method)
+
+circular Linked List and Traversal
