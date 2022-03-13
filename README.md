@@ -40,4 +40,6 @@ bit manipulation in c++
 
 bit at kth position
 
-count bits
+count bits (Naive method and Brian kernningan's algorithm)
+
+count bits (lookup table method)
