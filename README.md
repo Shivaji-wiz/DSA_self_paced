@@ -37,3 +37,7 @@ delete first Node of Doubly Linked List
 delete last Node of Doubly Linked List
 
 bit manipulation in c++
+
+bit at kth position
+
+count bits
