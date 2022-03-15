@@ -45,3 +45,5 @@ count bits (Naive method and Brian kernningan's algorithm)
 count bits (lookup table method)
 
 circular Linked List and Traversal
+
+Insertion at the begin of Doubly Linked List (Naive approach and Swap approach)
