@@ -47,3 +47,5 @@ count bits (lookup table method)
 circular Linked List and Traversal
 
 Insertion at the begin of Doubly Linked List (Naive approach and Swap approach)
+
+Insertion at the End of Doubly Linked List (Naive approach and Swap approach)
