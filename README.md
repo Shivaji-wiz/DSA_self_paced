@@ -53,3 +53,5 @@ Insertion at the End of Doubly Linked List (Naive approach and Swap approach)
 power of Two(all aproaches)
 
 odd occurring number (all approaches)
+
+missing number (all approaches)
