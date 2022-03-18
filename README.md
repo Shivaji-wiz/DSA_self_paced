@@ -55,3 +55,7 @@ power of Two(all aproaches)
 odd occurring number (all approaches)
 
 missing number (all approaches)
+
+Two odd occurring numbers
+
+Power set operation
