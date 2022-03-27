@@ -46,9 +46,9 @@ count bits (lookup table method)
 
 circular Linked List and Traversal
 
-Insertion at the begin of Doubly Linked List (Naive approach and Swap approach)
+Insertion at the begin of circular Linked List (Naive approach and Swap approach)
 
-Insertion at the End of Doubly Linked List (Naive approach and Swap approach)
+Insertion at the End of circular Linked List (Naive approach and Swap approach)
 
 power of Two(all aproaches)
 
@@ -59,3 +59,5 @@ missing number (all approaches)
 Two odd occurring numbers
 
 Power set operation
+
+deleting head of circular Linked List(Naive approach and Swap approach)
