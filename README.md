@@ -61,3 +61,5 @@ Two odd occurring numbers
 Power set operation
 
 deleting head of circular Linked List(Naive approach and Swap approach)
+
+deleting Kth Node of circular Linked Lis
